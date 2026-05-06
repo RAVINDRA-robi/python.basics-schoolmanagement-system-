@@ -4,5 +4,5 @@ A School Management System (SMS) is a digital platform designed to streamline an
 
 The system helps manage student admissions, attendance, academic records, examinations, fee collection, and staff information. It provides role-based access to administrators, teachers, students, and parents, ensuring smooth communication and transparency across all stakeholders.
 
-![Machine Learning Process]()
+![PRESENTED MANAGEMENT SYSTEM](https://github.com/RAVINDRA-robi/python.basics-schoolmanagement-system-/blob/main/school_management.png)
 ---
