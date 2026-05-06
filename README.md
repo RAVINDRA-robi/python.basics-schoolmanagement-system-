@@ -1,8 +1,8 @@
 ## 📌 Project Overview
 
-This project performs a comprehensive analysis of global terrorism data using **Exploratory Data Analysis (EDA)** and **Unsupervised Machine Learning** techniques. The goal is to uncover hidden patterns, understand trends, and classify countries based on the severity of terrorist activities.
+A School Management System (SMS) is a digital platform designed to streamline and automate the daily operations of educational institutions. It integrates various administrative, academic, and communication processes into a single system, making management more efficient and organized.
 
-The project integrates **Python-based analysis** with an **interactive Power BI dashboard** to present insights in a clear and actionable format.
+The system helps manage student admissions, attendance, academic records, examinations, fee collection, and staff information. It provides role-based access to administrators, teachers, students, and parents, ensuring smooth communication and transparency across all stakeholders.
 
-![Machine Learning Process](https://github.com/RAVINDRA-robi/Global-Terrorism-Analysis---Exploratory-Data-Analysis-EDA-with-ML-/blob/a1a6917349add331a7960bc444b32d6fbe4807df/PROJECT%20MODEL%20WORKFLOW.png)
+![Machine Learning Process]()
 ---
