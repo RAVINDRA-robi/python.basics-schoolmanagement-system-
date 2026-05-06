@@ -1,4 +1,4 @@
-## 📌 Project Overview
+## 📌 Python Project
 
 A School Management System (SMS) is a digital platform designed to streamline and automate the daily operations of educational institutions. It integrates various administrative, academic, and communication processes into a single system, making management more efficient and organized.
 
